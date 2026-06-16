@@ -1,4 +1,4 @@
-import 'package:ffmpeg_helper/ffmpeg_helper.dart';
+import 'package:ffmpeg_helper_renovate/ffmpeg_helper_renovate.dart';
 
 extension OnStatistics on Statistics {
   /// get time by duration

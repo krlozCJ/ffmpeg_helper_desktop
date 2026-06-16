@@ -1,4 +1,4 @@
-import 'package:ffmpeg_helper/ffmpeg_helper.dart';
+import 'package:ffmpeg_helper_renovate/ffmpeg_helper_renovate.dart';
 
 /// Builds an [FFMpegCommand] by accumulating all inputs and filter
 /// streams for a given command, and then generates the CLI arguments.

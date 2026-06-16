@@ -9,7 +9,7 @@ import 'package:package_info_plus/package_info_plus.dart';
 import 'package:path/path.dart' as path;
 import 'package:path_provider/path_provider.dart';
 
-import '../ffmpeg_helper.dart';
+import '../ffmpeg_helper_renovate.dart';
 
 class FFMpegHelper {
   static final FFMpegHelper _singleton = FFMpegHelper._internal();

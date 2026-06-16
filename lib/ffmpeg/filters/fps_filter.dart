@@ -1,4 +1,4 @@
-import 'package:ffmpeg_helper/ffmpeg_helper.dart';
+import 'package:ffmpeg_helper_renovate/ffmpeg_helper_renovate.dart';
 
 /// Converts the input video stream to the specified constant frame rate
 /// by duplicating or dropping frames as necessary.
